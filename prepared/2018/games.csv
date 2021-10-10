@@ -1,160 +1,133 @@
-,Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes
-0,1.0,Sat,2018-03-24,14:00,Sandviken,0–1,Kolbotn,353.0,Stemmemyren kunstgressbane,Vebjørn Haugland,Match Report,
-1,1.0,Sat,2018-03-24,15:00,Klepp,1–2,Arna-Bjørnar,258.0,Klepp Stadion,Mischa Kellerhals,Match Report,
-2,1.0,Sat,2018-03-24,15:00,Grand Bodø,2–1,Trondheims-Ørn,225.0,Nordlandshallen,Martin Berg,Match Report,
-3,1.0,Sat,2018-03-24,15:00,Røa,1–2,Lyn,255.0,Røabanen,Emilie Dokset,Match Report,
-4,1.0,Sat,2018-03-24,17:00,Vålerenga,0–5,LSK Kvinner,783.0,Vålerenga kultur- og idrettspark kunstgr...,Marte Sørø,Match Report,
-5,,,,,,,,,,,,
-6,2.0,Wed,2018-03-28,19:00,Arna-Bjørnar,5–0,Grand Bodø,264.0,Vestlandshallen,Marte Sørø,Match Report,
-7,2.0,Thu,2018-03-29,15:00,LSK Kvinner,6–0,Sandviken,322.0,LSK-hallen,Emilie Dokset,Match Report,
-8,2.0,Sat,2018-03-31,15:00,Trondheims-Ørn,1–0,Stabæk,197.0,Utleira Kunstgress,Sarah Fatemeh Zangeneh,Match Report,
-9,,,,,,,,,,,,
-10,3.0,Sat,2018-04-14,14:00,Klepp,3–2,Lyn,227.0,Klepp Stadion,Ingvild Aarland,Match Report,
-11,3.0,Sat,2018-04-14,15:00,Røa,2–5,LSK Kvinner,310.0,Røabanen,Marte Sørø,Match Report,
-12,3.0,Sat,2018-04-14,15:00,Stabæk,2–2,Arna-Bjørnar,322.0,Nadderud Stadion,Henrikke Holm Nervik,Match Report,
-13,3.0,Sun,2018-04-15,13:00,Sandviken,3–1,Trondheims-Ørn,365.0,Stemmemyren kunstgressbane,Malin Frantzen Øiseth,Match Report,
-14,3.0,Sun,2018-04-15,14:00,Grand Bodø,0–1,Avaldsnes,245.0,Nordlandshallen,Emilie Dokset,Match Report,
-15,3.0,Sun,2018-04-15,15:00,Vålerenga,2–3,Kolbotn,473.0,Vålerenga kultur- og idrettspark kunstgr...,Sarah Fatemeh Zangeneh,Match Report,
-16,,,,,,,,,,,,
-17,4.0,Sat,2018-04-21,13:00,Trondheims-Ørn,1–0,Røa,157.0,Utleira Kunstgress,Ingvild Aarland,Match Report,
-18,4.0,Sat,2018-04-21,15:00,LSK Kvinner,1–0,Stabæk,460.0,LSK-hallen,Sarah Fatemeh Zangeneh,Match Report,
-19,4.0,Sat,2018-04-21,15:00,Arna-Bjørnar,1–2,Sandviken,319.0,Arna Idrettspark,Emilie Dokset,Match Report,
-20,4.0,Sun,2018-04-22,12:30,Klepp,6–0,Grand Bodø,304.0,Klepp Stadion,Henrikke Holm Nervik,Match Report,
-21,4.0,Sun,2018-04-22,15:00,Avaldsnes,0–3,Vålerenga,163.0,Avaldsnes Idrettssenter,Marte Sørø,Match Report,
-22,,,,,,,,,,,,
-23,5.0,Sat,2018-04-28,15:00,Vålerenga,5–0,Stabæk,364.0,Vålerenga kultur- og idrettspark kunstgr...,Ingvild Aarland,Match Report,
-24,5.0,Sat,2018-04-28,15:00,Sandviken,1–0,Avaldsnes,372.0,Stemmemyren kunstgressbane,Sarah Fatemeh Zangeneh,Match Report,
-25,5.0,Sat,2018-04-28,15:00,Lyn,2–1,Arna-Bjørnar,280.0,Kringsjå Kunstgress,Marte Sørø,Match Report,
-26,5.0,Sun,2018-04-29,14:00,Kolbotn,0–5,LSK Kvinner,243.0,KFUM Arena,Anders Gjermshus,Match Report,
-27,5.0,Sun,2018-04-29,15:00,Trondheims-Ørn,0–1,Klepp,248.0,Utleira Kunstgress,Emilie Dokset,Match Report,
-28,5.0,Sun,2018-04-29,17:00,Røa,4–1,Grand Bodø,125.0,Røabanen,Malin Frantzen Øiseth,Match Report,
-29,,,,,,,,,,,,
-30,1.0,Tue,2018-05-01,14:00,Stabæk,4–2,Avaldsnes,140.0,Nadderud Stadion,Henrikke Holm Nervik,Match Report,
-31,,,,,,,,,,,,
-32,2.0,Wed,2018-05-02,18:30,Lyn,1–1,Vålerenga,420.0,Kringsjå Kunstgress,Emilie Dokset,Match Report,
-33,,,,,,,,,,,,
-34,6.0,Sat,2018-05-05,15:00,Klepp,3–0,Vålerenga,223.0,Klepp Stadion,Aleksander Vermundsen,Match Report,
-35,6.0,Sat,2018-05-05,15:00,LSK Kvinner,5–0,Trondheims-Ørn,269.0,LSK-hallen,Marte Sørø,Match Report,
-36,6.0,Sat,2018-05-05,15:00,Avaldsnes,3–0,Lyn,244.0,Avaldsnes Idrettssenter,Malin Frantzen Øiseth,Match Report,
-37,6.0,Sat,2018-05-05,16:00,Arna-Bjørnar,1–1,Kolbotn,203.0,Arna Idrettspark,Sarah Fatemeh Zangeneh,Match Report,
-38,6.0,Sun,2018-05-06,16:00,Grand Bodø,1–3,Sandviken,261.0,Nordlandshallen,Ingvild Aarland,Match Report,
-39,6.0,Sun,2018-05-06,17:00,Stabæk,1–3,Røa,204.0,Nadderud Stadion,Emilie Dokset,Match Report,
-40,,,,,,,,,,,,
-41,7.0,Sat,2018-05-12,14:00,Røa,2–0,Avaldsnes,131.0,Røabanen,Marte Sørø,Match Report,
-42,7.0,Sat,2018-05-12,14:00,Sandviken,1–0,Klepp,375.0,Stemmemyren kunstgressbane,Henrikke Holm Nervik,Match Report,
-43,7.0,Sat,2018-05-12,15:00,Lyn,3–4,LSK Kvinner,298.0,Kringsjå Kunstgress,Ingvild Aarland,Match Report,
-44,7.0,Sat,2018-05-12,18:30,Kolbotn,1–1,Stabæk,163.0,KFUM Arena,Stian Røvig Sletner,Match Report,
-45,7.0,Sun,2018-05-13,14:00,Trondheims-Ørn,2–6,Arna-Bjørnar,178.0,Utleira Kunstgress,Robert Eggen,Match Report,
-46,7.0,Sun,2018-05-13,17:00,Vålerenga,3–2,Grand Bodø,281.0,Vålerenga kultur- og idrettspark kunstgr...,Malin Frantzen Øiseth,Match Report,
-47,,,,,,,,,,,,
-48,8.0,Sat,2018-05-19,14:00,Sandviken,3–0,Vålerenga,272.0,Stemmemyren kunstgressbane,Vebjørn Haugland,Match Report,
-49,8.0,Sat,2018-05-19,15:00,Avaldsnes,2–0,Trondheims-Ørn,214.0,Avaldsnes Idrettssenter,Ole-Petter Grindheim,Match Report,
-50,8.0,Sat,2018-05-19,15:00,Klepp,2–1,Røa,318.0,Klepp Stadion,Daniel Higraff,Match Report,
-51,8.0,Sat,2018-05-19,15:00,Arna-Bjørnar,0–1,LSK Kvinner,142.0,Arna Idrettspark,Ruben Haugland,Match Report,
-52,8.0,Sat,2018-05-19,15:00,Stabæk,5–0,Lyn,206.0,Nadderud Stadion,Sarah Fatemeh Zangeneh,Match Report,
-53,8.0,Sun,2018-05-20,14:00,Grand Bodø,1–2,Kolbotn,230.0,Nordlandshallen,Henrikke Holm Nervik,Match Report,
-54,,,,,,,,,,,,
-55,9.0,Sat,2018-05-26,12:00,Røa,2–2,Arna-Bjørnar,414.0,Røabanen,Henrikke Holm Nervik,Match Report,
-56,9.0,Sat,2018-05-26,14:30,Kolbotn,3–1,Klepp,433.0,Stemmemyren kunstgressbane,Marte Sørø,Match Report,
-57,9.0,Sat,2018-05-26,17:00,Stabæk,0–1,Sandviken,360.0,Nadderud Stadion,Malin Frantzen Øiseth,Match Report,
-58,9.0,Sun,2018-05-27,12:00,Lyn,2–1,Grand Bodø,308.0,Kringsjå Kunstgress,Emilie Dokset,Match Report,
-59,9.0,Sun,2018-05-27,14:30,Vålerenga,0–1,Trondheims-Ørn,505.0,Intility Arena,Ingvild Aarland,Match Report,
-60,9.0,Sun,2018-05-27,17:00,LSK Kvinner,4–0,Avaldsnes,431.0,Telenor Arena,Sarah Fatemeh Zangeneh,Match Report,
-61,,,,,,,,,,,,
-62,2.0,Mon,2018-06-04,18:00,Avaldsnes,1–2,Klepp,167.0,Avaldsnes Idrettssenter,Ingvild Aarland,Match Report,
-63,,,,,,,,,,,,
-64,10.0,Sat,2018-06-16,14:00,Sandviken,6–0,Lyn,211.0,Stemmemyren kunstgressbane,Ingvild Aarland,Match Report,
-65,10.0,Sat,2018-06-16,14:00,Trondheims-Ørn,2–2,Kolbotn,211.0,Utleira Kunstgress,Sarah Fatemeh Zangeneh,Match Report,
-66,10.0,Sat,2018-06-16,15:00,Avaldsnes,1–0,Arna-Bjørnar,179.0,Avaldsnes Idrettssenter,Ola Kellerhals,Match Report,
-67,10.0,Sat,2018-06-16,15:00,Vålerenga,2–1,Røa,372.0,Vålerenga kultur- og idrettspark kunstgr...,Marte Sørø,Match Report,
-68,10.0,Sat,2018-06-16,15:00,Grand Bodø,0–3,Stabæk,203.0,Nordlandshallen,Frank Salbu Henneman,Match Report,
-69,10.0,Sat,2018-06-16,15:00,Klepp,0–2,LSK Kvinner,321.0,Klepp Stadion,Henrikke Holm Nervik,Match Report,
-70,,,,,,,,,,,,
-71,11.0,Sat,2018-06-23,14:00,Kolbotn,2–0,Avaldsnes,211.0,Sofiemyr stadion,Henrikke Holm Nervik,Match Report,
-72,11.0,Sat,2018-06-23,14:00,Røa,3–2,Sandviken,132.0,Røabanen,Emilie Dokset,Match Report,
-73,11.0,Sat,2018-06-23,14:00,Stabæk,0–1,Klepp,102.0,Nadderud Stadion,Marte Sørø,Match Report,
-74,11.0,Sat,2018-06-23,15:00,Lyn,2–3,Trondheims-Ørn,152.0,Kringsjå Kunstgress,Malin Frantzen Øiseth,Match Report,
-75,11.0,Sat,2018-06-23,15:00,Arna-Bjørnar,3–2,Vålerenga,141.0,Arna Idrettspark,Ingvild Aarland,Match Report,
-76,11.0,Sun,2018-06-24,17:00,LSK Kvinner,2–0,Grand Bodø,170.0,LSK-hallen,Sebastian Mikalsen,Match Report,
-77,,,,,,,,,,,,
-78,2.0,Wed,2018-06-27,18:00,Kolbotn,0–2,Røa,233.0,Sofiemyr stadion,Sarah Fatemeh Zangeneh,Match Report,
-79,,,,,,,,,,,,
-80,12.0,Sat,2018-06-30,15:00,Trondheims-Ørn,2–3,LSK Kvinner,121.0,Utleira Kunstgress,Thomas Lystad,Match Report,
-81,12.0,Sat,2018-06-30,15:00,Sandviken,1–3,Stabæk,202.0,Stemmemyren kunstgressbane,Andre Knudsen Arnholt,Match Report,
-82,12.0,Sat,2018-06-30,15:00,Klepp,2–1,Kolbotn,212.0,Klepp Stadion,Cosmin Dima,Match Report,
-83,12.0,Sat,2018-06-30,16:00,Grand Bodø,0–4,Arna-Bjørnar,76.0,Nordlandshallen,Karoline Marie Jensen,Match Report,
-84,12.0,Sun,2018-07-01,15:00,Avaldsnes,2–2,Røa,112.0,Avaldsnes Idrettssenter,Ole-Petter Grindheim,Match Report,
-85,12.0,Sun,2018-07-01,15:00,Vålerenga,6–1,Lyn,325.0,Vålerenga kultur- og idrettspark kunstgr...,Sarah Fatemeh Zangeneh,Match Report,
-86,,,,,,,,,,,,
-87,14.0,Wed,2018-07-04,18:00,Arna-Bjørnar,4–1,Avaldsnes,237.0,Arna Idrettspark,Emilie Dokset,Match Report,
-88,,,,,,,,,,,,
-89,13.0,Fri,2018-08-03,18:00,Lyn,2–2,Avaldsnes,178.0,Kringsjå Kunstgress,Ingvild Aarland,Match Report,
-90,13.0,Sat,2018-08-04,14:00,Røa,0–1,Klepp,135.0,Røabanen,Marte Sørø,Match Report,
-91,13.0,Sat,2018-08-04,14:00,Kolbotn,1–1,Sandviken,233.0,Sofiemyr stadion,Henrik Andreas Pettersen,Match Report,
-92,13.0,Sat,2018-08-04,15:00,LSK Kvinner,2–0,Vålerenga,445.0,LSK-hallen,Henrikke Holm Nervik,Match Report,
-93,13.0,Sat,2018-08-04,15:00,Stabæk,2–0,Grand Bodø,161.0,Nadderud Stadion,Malin Frantzen Øiseth,Match Report,
-94,13.0,Sun,2018-08-05,14:00,Arna-Bjørnar,6–1,Trondheims-Ørn,177.0,Arna Idrettspark,Sarah Fatemeh Zangeneh,Match Report,
-95,,,,,,,,,,,,
-96,14.0,Sat,2018-08-11,14:00,Vålerenga,1–0,Sandviken,221.0,Vålerenga kultur- og idrettspark kunstgr...,Malin Frantzen Øiseth,Match Report,
-97,14.0,Sat,2018-08-11,15:00,Klepp,2–0,Stabæk,238.0,Klepp Stadion,Emilie Dokset,Match Report,
-98,14.0,Sat,2018-08-11,15:00,Røa,1–2,Kolbotn,174.0,Røabanen,Sarah Fatemeh Zangeneh,Match Report,
-99,14.0,Sat,2018-08-11,16:00,Trondheims-Ørn,1–1,Lyn,163.0,Utleira Kunstgress,Stian Hansen,Match Report,
-100,14.0,Sun,2018-08-12,16:00,Grand Bodø,0–3,LSK Kvinner,85.0,Nordlandshallen,Ingvild Aarland,Match Report,
-101,,,,,,,,,,,,
-102,4.0,Wed,2018-08-15,19:00,Kolbotn,1–0,Lyn,315.0,Sofiemyr stadion,Karoline Marie Jensen,Match Report,
-103,,,,,,,,,,,,
-104,15.0,Sat,2018-08-18,15:00,Stabæk,0–1,Vålerenga,172.0,Nadderud Stadion,Henrikke Holm Nervik,Match Report,
-105,15.0,Sat,2018-08-18,15:00,Sandviken,5–3,Røa,242.0,Stemmemyren kunstgressbane,Ingvild Aarland,Match Report,
-106,15.0,Sat,2018-08-18,15:00,Lyn,0–1,Klepp,95.0,Kringsjå Kunstgress,Marte Sørø,Match Report,
-107,15.0,Sat,2018-08-18,15:00,Kolbotn,3–3,Trondheims-Ørn,103.0,Sofiemyr stadion,Malin Frantzen Øiseth,Match Report,
-108,15.0,Sat,2018-08-18,16:00,LSK Kvinner,2–0,Arna-Bjørnar,201.0,LSK-hallen,Emilie Dokset,Match Report,
-109,15.0,Sun,2018-08-19,14:00,Avaldsnes,3–3,Grand Bodø,131.0,Avaldsnes Idrettssenter,Cosmin Dima,Match Report,
-110,,,,,,,,,,,,
-111,16.0,Sat,2018-08-25,14:00,Arna-Bjørnar,2–1,Lyn,216.0,Arna Idrettspark,Malin Frantzen Øiseth,Match Report,
-112,16.0,Sat,2018-08-25,15:00,Røa,2–0,Stabæk,265.0,Røabanen,,Match Report,
-113,16.0,Sat,2018-08-25,15:00,Trondheims-Ørn,1–1,Avaldsnes,193.0,Utleira Kunstgress,Pål Jakobsen,Match Report,
-114,16.0,Sun,2018-08-26,13:00,LSK Kvinner,5–1,Kolbotn,232.0,LSK-hallen,Henrikke Holm Nervik,Match Report,
-115,16.0,Sun,2018-08-26,15:00,Grand Bodø,1–2,Vålerenga,160.0,Nordlandshallen,Martin Berg,Match Report,
-116,16.0,Sun,2018-08-26,17:00,Klepp,1–1,Sandviken,378.0,Klepp Stadion,Sarah Fatemeh Zangeneh,Match Report,
-117,,,,,,,,,,,,
-118,17.0,Sat,2018-09-08,13:00,Avaldsnes,1–4,LSK Kvinner,134.0,Avaldsnes Idrettssenter,Ingvild Aarland,Match Report,
-119,17.0,Sat,2018-09-08,15:00,Stabæk,2–0,Trondheims-Ørn,169.0,Nadderud Stadion,Sarah Fatemeh Zangeneh,Match Report,
-120,17.0,Sat,2018-09-08,15:00,Kolbotn,1–4,Arna-Bjørnar,173.0,Stemmemyren kunstgressbane,,Match Report,
-121,17.0,Sat,2018-09-08,17:00,Lyn,3–4,Røa,185.0,Kringsjå Kunstgress,Marte Sørø,Match Report,
-122,17.0,Sun,2018-09-09,13:00,Sandviken,4–1,Grand Bodø,227.0,Stemmemyren kunstgressbane,Karoline Marie Jensen,Match Report,
-123,17.0,Sun,2018-09-09,15:00,Vålerenga,1–1,Klepp,279.0,Vålerenga kultur- og idrettspark kunstgr...,Emilie Dokset,Match Report,
-124,,,,,,,,,,,,
-125,18.0,Sat,2018-09-15,15:00,Arna-Bjørnar,6–2,Stabæk,285.0,Arna Idrettspark,Ingvild Aarland,Match Report,
-126,18.0,Sat,2018-09-15,15:00,Røa,2–1,Vålerenga,387.0,Røabanen,Henrikke Holm Nervik,Match Report,
-127,18.0,Sun,2018-09-16,14:00,Avaldsnes,0–0,Kolbotn,78.0,Avaldsnes Idrettssenter,Mischa Kellerhals,Match Report,
-128,18.0,Sun,2018-09-16,15:00,Grand Bodø,3–5,Klepp,348.0,Nordlandshallen,Malin Frantzen Øiseth,Match Report,
-129,18.0,Sun,2018-09-16,16:00,Trondheims-Ørn,3–3,Sandviken,173.0,Utleira Kunstgress,Marte Sørø,Match Report,
-130,18.0,Sun,2018-09-16,18:00,LSK Kvinner,2–1,Lyn,246.0,LSK-hallen,Emilie Dokset,Match Report,
-131,,,,,,,,,,,,
-132,19.0,Fri,2018-09-21,19:00,Stabæk,0–2,LSK Kvinner,156.0,Nadderud Stadion,Marte Sørø,Match Report,
-133,19.0,Sat,2018-09-22,15:00,Sandviken,1–1,Arna-Bjørnar,1122.0,Stemmemyren kunstgressbane,Malin Frantzen Øiseth,Match Report,
-134,19.0,Sat,2018-09-22,15:00,Lyn,0–1,Kolbotn,179.0,Kringsjå Kunstgress,Sarah Fatemeh Zangeneh,Match Report,
-135,19.0,Sun,2018-09-23,16:00,Grand Bodø,1–3,Røa,154.0,Nordlandshallen,Ingvild Aarland,Match Report,
-136,19.0,Wed,2018-09-26,16:45,Klepp,1–0,Trondheims-Ørn,152.0,Klepp Stadion,Karoline Marie Jensen,Match Report,
-137,19.0,Sat,2018-10-13,14:00,Vålerenga,2–1,Avaldsnes,242.0,Vålerenga kultur- og idrettspark kunstgr...,Sarah Fatemeh Zangeneh,Match Report,
-138,,,,,,,,,,,,
-139,20.0,Sat,2018-10-20,15:00,Avaldsnes,0–0,Sandviken,101.0,Avaldsnes Idrettssenter,Malin Frantzen Øiseth,Match Report,
-140,20.0,Sat,2018-10-20,15:00,Trondheims-Ørn,1–3,Vålerenga,621.0,Ørn Arena,Veronika Fjeldvær,Match Report,
-141,20.0,Sat,2018-10-20,15:00,Lyn,2–3,Stabæk,346.0,Kringsjå Kunstgress,Karoline Marie Jensen,Match Report,
-142,20.0,Sat,2018-10-20,15:00,Arna-Bjørnar,2–0,Røa,304.0,Arna Idrettspark,Sarah Fatemeh Zangeneh,Match Report,
-143,20.0,Sun,2018-10-21,15:00,LSK Kvinner,2–3,Klepp,242.0,LSK-hallen,Ingvild Aarland,Match Report,
-144,20.0,Sun,2018-10-21,17:00,Kolbotn,3–2,Grand Bodø,102.0,Sofiemyr stadion,Ole-Alexander Ekeli Valen,Match Report,
-145,,,,,,,,,,,,
-146,21.0,Sat,2018-10-27,13:00,Klepp,2–1,Avaldsnes,423.0,Klepp Stadion,Marte Sørø,Match Report,
-147,21.0,Sat,2018-10-27,13:00,Stabæk,1–2,Kolbotn,205.0,Nadderud Stadion,Malin Frantzen Øiseth,Match Report,
-148,21.0,Sat,2018-10-27,13:00,Røa,2–1,Trondheims-Ørn,231.0,Røabanen,Emilie Dokset,Match Report,
-149,21.0,Sat,2018-10-27,13:00,Grand Bodø,1–0,Lyn,162.0,Nordlandshallen,Sarah Fatemeh Zangeneh,Match Report,
-150,21.0,Sat,2018-10-27,13:00,Vålerenga,1–1,Arna-Bjørnar,289.0,Vålerenga kultur- og idrettspark kunstgr...,Ingvild Aarland,Match Report,
-151,21.0,Sat,2018-10-27,13:00,Sandviken,0–0,LSK Kvinner,552.0,Stemmemyren kunstgressbane,Henrikke Holm Nervik,Match Report,
-152,,,,,,,,,,,,
-153,22.0,Sun,2018-11-04,13:00,Trondheims-Ørn,0–0,Grand Bodø,235.0,Ørn Arena,Marte Sørø,Match Report,
-154,22.0,Sun,2018-11-04,13:00,Kolbotn,3–1,Vålerenga,241.0,Sofiemyr stadion,Henrikke Holm Nervik,Match Report,
-155,22.0,Sun,2018-11-04,13:00,LSK Kvinner,6–2,Røa,813.0,LSK-hallen,Sarah Fatemeh Zangeneh,Match Report,
-156,22.0,Sun,2018-11-04,13:00,Lyn,2–4,Sandviken,125.0,Kringsjå Kunstgress,Ingvild Aarland,Match Report,
-157,22.0,Sun,2018-11-04,13:00,Avaldsnes,2–0,Stabæk,129.0,Avaldsnes Idrettssenter,Veronika Fjeldvær,Match Report,
-158,22.0,Sun,2018-11-04,13:00,Arna-Bjørnar,0–0,Klepp,284.0,Arna Idrettspark,Emilie Dokset,Match Report,
+,Home,Score,Away
+0,Sandviken,0–1,Kolbotn
+1,Klepp,1–2,Arna-Bjørnar
+2,Grand Bodø,2–1,Trondheims-Ørn
+3,Røa,1–2,Lyn
+4,Vålerenga,0–5,LSK Kvinner
+6,Arna-Bjørnar,5–0,Grand Bodø
+7,LSK Kvinner,6–0,Sandviken
+8,Trondheims-Ørn,1–0,Stabæk
+10,Klepp,3–2,Lyn
+11,Røa,2–5,LSK Kvinner
+12,Stabæk,2–2,Arna-Bjørnar
+13,Sandviken,3–1,Trondheims-Ørn
+14,Grand Bodø,0–1,Avaldsnes
+15,Vålerenga,2–3,Kolbotn
+17,Trondheims-Ørn,1–0,Røa
+18,LSK Kvinner,1–0,Stabæk
+19,Arna-Bjørnar,1–2,Sandviken
+20,Klepp,6–0,Grand Bodø
+21,Avaldsnes,0–3,Vålerenga
+23,Vålerenga,5–0,Stabæk
+24,Sandviken,1–0,Avaldsnes
+25,Lyn,2–1,Arna-Bjørnar
+26,Kolbotn,0–5,LSK Kvinner
+27,Trondheims-Ørn,0–1,Klepp
+28,Røa,4–1,Grand Bodø
+30,Stabæk,4–2,Avaldsnes
+32,Lyn,1–1,Vålerenga
+34,Klepp,3–0,Vålerenga
+35,LSK Kvinner,5–0,Trondheims-Ørn
+36,Avaldsnes,3–0,Lyn
+37,Arna-Bjørnar,1–1,Kolbotn
+38,Grand Bodø,1–3,Sandviken
+39,Stabæk,1–3,Røa
+41,Røa,2–0,Avaldsnes
+42,Sandviken,1–0,Klepp
+43,Lyn,3–4,LSK Kvinner
+44,Kolbotn,1–1,Stabæk
+45,Trondheims-Ørn,2–6,Arna-Bjørnar
+46,Vålerenga,3–2,Grand Bodø
+48,Sandviken,3–0,Vålerenga
+49,Avaldsnes,2–0,Trondheims-Ørn
+50,Klepp,2–1,Røa
+51,Arna-Bjørnar,0–1,LSK Kvinner
+52,Stabæk,5–0,Lyn
+53,Grand Bodø,1–2,Kolbotn
+55,Røa,2–2,Arna-Bjørnar
+56,Kolbotn,3–1,Klepp
+57,Stabæk,0–1,Sandviken
+58,Lyn,2–1,Grand Bodø
+59,Vålerenga,0–1,Trondheims-Ørn
+60,LSK Kvinner,4–0,Avaldsnes
+62,Avaldsnes,1–2,Klepp
+64,Sandviken,6–0,Lyn
+65,Trondheims-Ørn,2–2,Kolbotn
+66,Avaldsnes,1–0,Arna-Bjørnar
+67,Vålerenga,2–1,Røa
+68,Grand Bodø,0–3,Stabæk
+69,Klepp,0–2,LSK Kvinner
+71,Kolbotn,2–0,Avaldsnes
+72,Røa,3–2,Sandviken
+73,Stabæk,0–1,Klepp
+74,Lyn,2–3,Trondheims-Ørn
+75,Arna-Bjørnar,3–2,Vålerenga
+76,LSK Kvinner,2–0,Grand Bodø
+78,Kolbotn,0–2,Røa
+80,Trondheims-Ørn,2–3,LSK Kvinner
+81,Sandviken,1–3,Stabæk
+82,Klepp,2–1,Kolbotn
+83,Grand Bodø,0–4,Arna-Bjørnar
+84,Avaldsnes,2–2,Røa
+85,Vålerenga,6–1,Lyn
+87,Arna-Bjørnar,4–1,Avaldsnes
+89,Lyn,2–2,Avaldsnes
+90,Røa,0–1,Klepp
+91,Kolbotn,1–1,Sandviken
+92,LSK Kvinner,2–0,Vålerenga
+93,Stabæk,2–0,Grand Bodø
+94,Arna-Bjørnar,6–1,Trondheims-Ørn
+96,Vålerenga,1–0,Sandviken
+97,Klepp,2–0,Stabæk
+98,Røa,1–2,Kolbotn
+99,Trondheims-Ørn,1–1,Lyn
+100,Grand Bodø,0–3,LSK Kvinner
+102,Kolbotn,1–0,Lyn
+104,Stabæk,0–1,Vålerenga
+105,Sandviken,5–3,Røa
+106,Lyn,0–1,Klepp
+107,Kolbotn,3–3,Trondheims-Ørn
+108,LSK Kvinner,2–0,Arna-Bjørnar
+109,Avaldsnes,3–3,Grand Bodø
+111,Arna-Bjørnar,2–1,Lyn
+112,Røa,2–0,Stabæk
+113,Trondheims-Ørn,1–1,Avaldsnes
+114,LSK Kvinner,5–1,Kolbotn
+115,Grand Bodø,1–2,Vålerenga
+116,Klepp,1–1,Sandviken
+118,Avaldsnes,1–4,LSK Kvinner
+119,Stabæk,2–0,Trondheims-Ørn
+120,Kolbotn,1–4,Arna-Bjørnar
+121,Lyn,3–4,Røa
+122,Sandviken,4–1,Grand Bodø
+123,Vålerenga,1–1,Klepp
+125,Arna-Bjørnar,6–2,Stabæk
+126,Røa,2–1,Vålerenga
+127,Avaldsnes,0–0,Kolbotn
+128,Grand Bodø,3–5,Klepp
+129,Trondheims-Ørn,3–3,Sandviken
+130,LSK Kvinner,2–1,Lyn
+132,Stabæk,0–2,LSK Kvinner
+133,Sandviken,1–1,Arna-Bjørnar
+134,Lyn,0–1,Kolbotn
+135,Grand Bodø,1–3,Røa
+136,Klepp,1–0,Trondheims-Ørn
+137,Vålerenga,2–1,Avaldsnes
+139,Avaldsnes,0–0,Sandviken
+140,Trondheims-Ørn,1–3,Vålerenga
+141,Lyn,2–3,Stabæk
+142,Arna-Bjørnar,2–0,Røa
+143,LSK Kvinner,2–3,Klepp
+144,Kolbotn,3–2,Grand Bodø
+146,Klepp,2–1,Avaldsnes
+147,Stabæk,1–2,Kolbotn
+148,Røa,2–1,Trondheims-Ørn
+149,Grand Bodø,1–0,Lyn
+150,Vålerenga,1–1,Arna-Bjørnar
+151,Sandviken,0–0,LSK Kvinner
+153,Trondheims-Ørn,0–0,Grand Bodø
+154,Kolbotn,3–1,Vålerenga
+155,LSK Kvinner,6–2,Røa
+156,Lyn,2–4,Sandviken
+157,Avaldsnes,2–0,Stabæk
+158,Arna-Bjørnar,0–0,Klepp

@@ -1,262 +1,261 @@
-,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 23_level_0
-,Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
-0,1,Marianne Aamot Linaker,no NOR,DF,Medkila,34.0,1982.0,4,4,359,4.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-1,2,Meryll Abrahamsen,no NOR,DF,Avaldsnes,19.0,1997.0,17,11,945,10.5,1,,1,0,0,4,0,0.1,,,0.1,,Matches
-2,3,Julie Adserø,no NOR,MF,Trondheims-Ørn,25.0,1991.0,9,9,791,8.8,5,,5,0,0,1,0,0.57,,,0.57,,Matches
-3,4,Ine Agnethe Aarskog,no NOR,DF,Klepp,17.0,2000.0,3,1,165,1.8,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-4,5,Teigen Allen,au AUS,DF,Vålerenga,22.0,1994.0,4,3,266,3.0,0,,0,0,0,1,1,0.0,,,0.0,,Matches
-5,6,Silje Almström Franzén,no NOR,DF,Trondheims-Ørn,18.0,1998.0,2,0,29,0.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-6,7,Ingrid Altermark,no NOR,FW,Arna-Bjørnar,20.0,1996.0,11,7,528,5.9,2,,2,0,0,0,0,0.34,,,0.34,,Matches
-7,8,Jacqueline Altschuld,no NOR,FW,Medkila,21.0,1995.0,10,10,900,10.0,1,,1,0,0,0,0,0.1,,,0.1,,Matches
-8,9,Kristine Amundsen,no NOR,MF,Medkila,,,2,0,17,0.2,0,,0,0,0,0,1,0.0,,,0.0,,Matches
-9,10,Andréia Rosa de Andrade,br BRA,DF,Avaldsnes,32.0,1984.0,20,20,1784,19.8,1,,1,0,0,3,0,0.05,,,0.05,,Matches
-10,11,Cesilie Andreassen,no NOR,MF,Trondheims-Ørn,20.0,1996.0,20,18,1568,17.4,4,,4,0,0,1,0,0.23,,,0.23,,Matches
-11,12,Marie Andresen,no NOR,MF,Klepp,16.0,2000.0,8,4,340,3.8,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-12,13,Emily Armstrong,no NOR,GK,Medkila,23.0,1993.0,10,10,900,10.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-13,14,Therese Åsland,no NOR,FW,Røa,21.0,1995.0,22,22,1965,21.8,3,,3,0,0,1,0,0.14,,,0.14,,Matches
-14,15,Isabell Bachor,de GER,FW,LSK Kvinner,33.0,1983.0,21,21,1851,20.6,2,,2,0,0,3,0,0.1,,,0.1,,Matches
-15,16,Hannah Bacon,au AUS,DF,Trondheims-Ørn,18.0,1998.0,8,2,245,2.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-16,17,Karoline Bakke,no NOR,MF,Sandviken,26.0,1991.0,20,18,1693,18.8,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-17,18,Maiken Bakke,no NOR,FW,Grand Bodø,18.0,1998.0,15,6,663,7.4,1,,1,0,0,0,0,0.14,,,0.14,,Matches
-18,19,Marte Berget,no NOR,FW,LSK Kvinner,28.0,1988.0,19,8,804,8.9,10,,10,0,0,1,0,1.12,,,1.12,,Matches
-19,20,Michelle Betos,us USA,GK,Vålerenga,28.0,1988.0,20,20,1765,19.6,0,,0,0,0,0,1,0.0,,,0.0,,Matches
-20,21,Tone Bettina Pirisi,no NOR,FW,Kolbotn,18.0,1999.0,16,10,929,10.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-21,22,Anne-Marthe Birkeland,no NOR,FW,Grand Bodø,23.0,1993.0,22,21,1804,20.0,11,,11,0,0,0,0,0.55,,,0.55,,Matches
-22,23,Melissa Bjånesøy,no NOR,FW,Stabæk,24.0,1992.0,21,21,1855,20.6,11,,11,0,0,0,0,0.53,,,0.53,,Matches
-23,24,Thea Bjelde,no NOR,MF,Arna-Bjørnar,16.0,2000.0,8,2,223,2.5,1,,1,0,0,0,0,0.4,,,0.4,,Matches
-24,25,Silje Bjørneboe,no NOR,DF,Stabæk,16.0,2000.0,2,0,46,0.5,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-25,26,Silje Blakstad,no NOR,MF,LSK Kvinner,26.0,1990.0,13,6,589,6.5,2,,2,0,0,0,0,0.31,,,0.31,,Matches
-26,27,Oda Bogstad,no NOR,GK,Klepp,20.0,1996.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-27,28,Emilie Bragstad,no NOR,MF,Trondheims-Ørn,15.0,2001.0,1,0,2,0.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-28,29,Marit Bratberg Lund,no NOR,DF,Kolbotn,19.0,1997.0,14,12,1112,12.4,1,,1,0,0,4,0,0.08,,,0.08,,Matches
-29,30,Vilde Bratland,no NOR,DF,Røa,18.0,1998.0,9,5,508,5.6,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-30,31,Malin Brenn,no NOR,DF,LSK Kvinner,17.0,1999.0,19,19,1677,18.6,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-31,32,Maria Brochmann,no NOR,MF,Arna-Bjørnar,23.0,1993.0,17,13,1206,13.4,2,,2,0,0,2,0,0.15,,,0.15,,Matches
-32,33,Marije Brummel,nl NED,"DF,MF",Sandviken,31.0,1985.0,20,20,1793,19.9,2,,2,0,0,3,0,0.1,,,0.1,,Matches
-33,34,Christina Burkenroad,us USA,MF,Grand Bodø,23.0,1993.0,10,9,698,7.8,1,,1,0,0,0,0,0.13,,,0.13,,Matches
-34,35,Tameka Butt,au AUS,MF,Klepp,25.0,1991.0,19,19,1676,18.6,14,,14,0,0,2,1,0.75,,,0.75,,Matches
-35,36,Miriam Byberg,no NOR,MF,Klepp,18.0,1998.0,2,0,3,0.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-36,37,Nora Byom-Nilssen,no NOR,DF,Røa,22.0,1994.0,22,22,1973,21.9,3,,3,0,0,1,0,0.14,,,0.14,,Matches
-37,38,Camilla Christensen,no NOR,MF,Vålerenga,25.0,1991.0,1,0,4,0.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-38,39,Marit Clausen,no NOR,DF,Trondheims-Ørn,20.0,1996.0,10,9,866,9.6,1,,1,0,0,2,0,0.1,,,0.1,,Matches
-39,40,Anya de Courcy,no NOR,FW,Trondheims-Ørn,19.0,1997.0,7,1,128,1.4,1,,1,0,0,1,0,0.7,,,0.7,,Matches
-40,41,Hanna Dahl,no NOR,MF,Avaldsnes,21.0,1995.0,20,10,980,10.9,2,,2,0,0,0,0,0.18,,,0.18,,Matches
-41,42,Daiane,br BRA,DF,Avaldsnes,19.0,1997.0,18,18,1547,17.2,1,,1,0,0,4,1,0.06,,,0.06,,Matches
-42,43,Tina Dalgård,no NOR,DF,Vålerenga,22.0,1994.0,17,15,1335,14.8,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-43,44,Cathrine Dekkerhus,no NOR,MF,Stabæk,24.0,1992.0,2,0,13,0.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-44,45,Line Dverseth Danielsen,no NOR,MF,Grand Bodø,28.0,1988.0,20,15,1422,15.8,1,,0,1,1,0,0,0.06,,,0.0,,Matches
-45,46,Sigrun Dybvik,no NOR,DF,Medkila,24.0,1992.0,19,19,1529,17.0,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-46,47,Camilla Dyhring Hansen,no NOR,MF,Medkila,15.0,2001.0,3,0,34,0.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-47,48,Siw Døvle,no NOR,FW,Trondheims-Ørn,18.0,1998.0,10,8,763,8.5,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-48,49,Siw Døvle,no NOR,FW,Kolbotn,18.0,1998.0,10,10,847,9.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-49,50,Vile Edvardsen,no NOR,DF,Grand Bodø,21.0,1995.0,3,0,85,0.9,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-50,51,Oda Eide Arnesen,no NOR,DF,Avaldsnes,16.0,2000.0,3,0,38,0.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-51,52,Nora Eide Lie,no NOR,MF,Kolbotn,19.0,1997.0,13,10,974,10.8,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-52,53,Åsne Eide,no NOR,DF,Trondheims-Ørn,22.0,1994.0,7,7,616,6.8,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-53,54,Amalie Eikeland,no NOR,FW,Arna-Bjørnar,21.0,1995.0,22,21,1918,21.3,5,,5,0,0,2,0,0.23,,,0.23,,Matches
-54,55,Sina Elise Tosterud,no NOR,MF,Sandviken,20.0,1996.0,19,15,1288,14.3,1,,1,0,0,0,0,0.07,,,0.07,,Matches
-55,56,Heidi Ellingsen,no NOR,MF,Stabæk,18.0,1998.0,21,14,1349,15.0,3,,3,0,0,0,0,0.2,,,0.2,,Matches
-56,57,Ingrid Elvebakken,no NOR,DF,Kolbotn,19.0,1997.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-57,58,Rakel Engesvik,no NOR,MF,Trondheims-Ørn,18.0,1998.0,22,16,1442,16.0,8,,8,0,0,1,0,0.5,,,0.5,,Matches
-58,59,Tine Erichsen Engan,no NOR,MF,Grand Bodø,26.0,1990.0,15,14,1275,14.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-59,60,Camilla Ervik,no NOR,MF,Sandviken,22.0,1995.0,21,20,1712,19.0,2,,2,0,0,0,0,0.11,,,0.11,,Matches
-60,61,Josefine Ervik,no NOR,GK,Vålerenga,22.0,1994.0,3,2,214,2.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-61,62,Tuva Espås,no NOR,FW,Røa,17.0,1999.0,7,0,61,0.7,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-62,63,Cecilie Falch,no NOR,FW,Grand Bodø,20.0,1996.0,10,6,582,6.5,1,,1,0,0,0,0,0.15,,,0.15,,Matches
-63,64,Lotte Fikseth Fossem,no NOR,MF,Medkila,15.0,2001.0,21,21,1844,20.5,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-64,65,Cecilie Fiskerstrand,no NOR,GK,LSK Kvinner,20.0,1996.0,20,20,1793,19.9,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-65,66,Vilde Fjelldal,no NOR,FW,Grand Bodø,19.0,1997.0,15,15,1271,14.1,4,,4,0,0,2,0,0.28,,,0.28,,Matches
-66,67,Ida Fjordbakk,no NOR,DF,LSK Kvinner,25.0,1991.0,3,2,171,1.9,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-67,68,Martine Flakk,no NOR,DF,Stabæk,24.0,1993.0,10,1,195,2.2,1,,1,0,0,0,0,0.46,,,0.46,,Matches
-68,69,Emma Fletcher,ca CAN,MF,Arna-Bjørnar,21.0,1995.0,16,13,1142,12.7,2,,2,0,0,0,0,0.16,,,0.16,,Matches
-69,70,Ida Marie Fikseth Fossem,no NOR,MF,Medkila,19.0,1997.0,22,22,1980,22.0,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-70,71,Katie Fraine,us USA,GK,Avaldsnes,29.0,1987.0,20,20,1754,19.5,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-71,72,Francielle,br BRA,MF,Avaldsnes,27.0,1989.0,22,22,1960,21.8,3,,2,1,1,1,0,0.14,,,0.09,,Matches
-72,73,Savannah Francis,us USA,DF,Grand Bodø,23.0,1994.0,20,20,1775,19.7,0,,0,0,0,5,0,0.0,,,0.0,,Matches
-73,74,Tina Fremo,no NOR,DF,Trondheims-Ørn,25.0,1991.0,20,18,1672,18.6,2,,2,0,0,1,0,0.11,,,0.11,,Matches
-74,75,Johanne Fridlund,no NOR,MF,Vålerenga,20.0,1996.0,8,8,560,6.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-75,76,Oda Fugelsnes,no NOR,FW,Trondheims-Ørn,26.0,1990.0,22,20,1768,19.6,4,,4,0,0,0,0,0.2,,,0.2,,Matches
-76,77,Ina Gausdal,no NOR,DF,Kolbotn,25.0,1991.0,22,22,1927,21.4,1,,1,0,0,0,0,0.05,,,0.05,,Matches
-77,78,Alyssa Giannetti,us USA,GK,Arna-Bjørnar,32.0,1984.0,16,16,1440,16.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-78,79,Emily Gielnik,au AUS,FW,Avaldsnes,24.0,1992.0,19,19,1606,17.8,8,,8,0,0,1,0,0.45,,,0.45,,Matches
-79,80,Helene Gloppen,no NOR,DF,Arna-Bjørnar,23.0,1993.0,22,22,1965,21.8,3,,3,0,0,2,0,0.14,,,0.14,,Matches
-80,81,Antonia Göransson,se SWE,"FW,MF",Kolbotn,26.0,1990.0,10,7,598,6.6,1,,1,0,0,1,0,0.15,,,0.15,,Matches
-81,82,Celine Granli,no NOR,MF,Stabæk,21.0,1995.0,8,3,289,3.2,1,,1,0,0,0,0,0.31,,,0.31,,Matches
-82,83,Kristina Grøndal,no NOR,DF,Sandviken,20.0,1996.0,22,22,1923,21.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-83,84,Solveig Gulbrandsen,no NOR,MF,Kolbotn,36.0,1981.0,6,1,193,2.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-84,85,Emilie Haavi,no NOR,"FW,MF",LSK Kvinner,24.0,1992.0,9,8,680,7.6,3,,3,0,0,0,0,0.4,,,0.4,,Matches
-85,86,Benedicte Håland,no NOR,GK,Arna-Bjørnar,18.0,1998.0,2,2,180,2.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-86,87,June Hammersland,no NOR,DF,Sandviken,32.0,1984.0,18,17,1542,17.1,1,,1,0,0,2,0,0.06,,,0.06,,Matches
-87,88,Hege Hansen,no NOR,FW,Klepp,26.0,1990.0,21,21,1794,19.9,4,,4,0,0,2,0,0.2,,,0.2,,Matches
-88,89,Synne Hansen,no NOR,MF,LSK Kvinner,21.0,1995.0,19,16,1222,13.6,3,,3,0,0,0,0,0.22,,,0.22,,Matches
-89,90,Tuva Hansen,no NOR,MF,Klepp,19.0,1997.0,22,22,1980,22.0,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-90,91,Benedikthe Hartvigsen,no NOR,MF,Avaldsnes,18.0,1998.0,3,1,67,0.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-91,92,Vilde Hasund,no NOR,FW,Røa,19.0,1997.0,18,16,1370,15.2,5,,5,0,0,0,0,0.33,,,0.33,,Matches
-92,93,Sophie Haug,no NOR,MF,LSK Kvinner,17.0,1999.0,20,15,1429,15.9,15,,15,0,0,2,0,0.94,,,0.94,,Matches
-93,94,Maren Hauge,no NOR,FW,Vålerenga,22.0,1994.0,20,17,1454,16.2,7,,7,0,0,2,0,0.43,,,0.43,,Matches
-94,95,Hedda Haugene,no NOR,MF,Røa,,,7,0,38,0.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-95,96,Margunn Haugenes,no NOR,MF,Medkila,47.0,1970.0,1,1,62,0.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-96,97,My Haugland Sørsdahl,no NOR,DF,Kolbotn,16.0,2000.0,11,10,816,9.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-97,98,Andrea Haugstøyl,no NOR,MF,Trondheims-Ørn,26.0,1991.0,13,10,915,10.2,3,,3,0,0,0,0,0.3,,,0.3,,Matches
-98,99,Karoline Heimvik Haugland,no NOR,MF,Arna-Bjørnar,18.0,1998.0,18,9,873,9.7,2,,2,0,0,4,0,0.21,,,0.21,,Matches
-99,100,Sigrid Helbostad,no NOR,FW,Grand Bodø,16.0,2000.0,15,15,1250,13.9,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-100,101,Line Hem,no NOR,MF,Røa,23.0,1994.0,6,4,348,3.9,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-101,102,Gunhild Herregården,no NOR,DF,Røa,,,20,20,1753,19.5,2,,2,0,0,1,1,0.1,,,0.1,,Matches
-102,103,Maria Hiim,no NOR,MF,Klepp,19.0,1997.0,15,12,1156,12.8,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-103,104,Laila Himle,no NOR,DF,Sandviken,25.0,1991.0,20,19,1661,18.5,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-104,105,Marte Hjelmhaug,no NOR,DF,Sandviken,17.0,1999.0,15,8,785,8.7,1,,1,0,0,0,0,0.11,,,0.11,,Matches
-105,106,Ingrid Hjelmseth,no NOR,GK,Stabæk,36.0,1980.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-106,107,Marita Holmen Iversen,no NOR,MF,Røa,25.0,1991.0,17,16,1403,15.6,0,,0,0,0,5,0,0.0,,,0.0,,Matches
-107,108,Line Holter,no NOR,MF,Røa,27.0,1989.0,20,20,1785,19.8,3,,3,0,0,5,0,0.15,,,0.15,,Matches
-108,109,Rebecka Holum,no NOR,MF,Røa,20.0,1996.0,8,5,492,5.5,3,,3,0,0,1,0,0.55,,,0.55,,Matches
-109,110,Caroline Hovland,no NOR,MF,Kolbotn,,,3,0,27,0.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-110,111,Stine Hovland,no NOR,DF,Sandviken,26.0,1991.0,22,22,1980,22.0,1,,1,0,0,1,0,0.05,,,0.05,,Matches
-111,112,Maria Hustad,no NOR,MF,Medkila,18.0,1998.0,21,20,1845,20.5,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-112,113,Celin Ildhusøy,no NOR,FW,Vålerenga,15.0,2001.0,6,0,105,1.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-113,114,Adriana Imeri,no NOR,MF,Vålerenga,16.0,2000.0,6,2,201,2.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-114,115,Krystina Iordanou,cy CYP,DF,Medkila,21.0,1995.0,2,2,180,2.0,1,,1,0,0,0,0,0.5,,,0.5,,Matches
-115,116,Ingvild Isaksen,no NOR,"FW,MF",Stabæk,27.0,1989.0,9,8,744,8.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-116,117,Hedda Jakobsen,no NOR,FW,Medkila,16.0,2001.0,14,7,775,8.6,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-117,118,Marina Jensen,no NOR,FW,Sandviken,20.0,1996.0,21,16,1324,14.7,3,,3,0,0,0,0,0.2,,,0.2,,Matches
-118,119,Sofie Jensen,no NOR,FW,Sandviken,22.0,1994.0,21,19,1574,17.5,6,,6,0,0,1,0,0.34,,,0.34,,Matches
-119,120,Synne Jensen,no NOR,FW,Stabæk,20.0,1996.0,22,22,1839,20.4,4,,4,0,0,1,0,0.2,,,0.2,,Matches
-120,121,Elisabeth Jeppesen,no NOR,FW,Røa,31.0,1985.0,2,0,17,0.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-121,122,Maren Johansen,no NOR,FW,Kolbotn,24.0,1992.0,17,9,862,9.6,1,,1,0,0,0,0,0.1,,,0.1,,Matches
-122,123,Silje Johansen,no NOR,MF,Medkila,22.0,1994.0,16,14,1141,12.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-123,124,Fanny Johansson,no NOR,DF,Medkila,24.0,1992.0,11,11,990,11.0,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-124,125,Amalie Johnsen,no NOR,DF,Grand Bodø,19.0,1997.0,22,22,1943,21.6,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-125,126,Hanna Jønland,no NOR,MF,Avaldsnes,21.0,1995.0,1,0,12,0.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-126,127,Kristin Jørgensen,no NOR,FW,Trondheims-Ørn,,,15,1,235,2.6,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-127,128,Sofie Jørgensen,no NOR,FW,Sandviken,25.0,1991.0,2,2,138,1.5,1,,1,0,0,0,0,0.65,,,0.65,,Matches
-128,129,Anna Jøsendal,no NOR,FW,Avaldsnes,15.0,2001.0,3,1,118,1.3,1,,1,0,0,0,0,0.76,,,0.76,,Matches
-129,130,Lisa-Marie Karlseng Utland,no NOR,FW,Røa,24.0,1992.0,20,20,1766,19.6,17,,17,0,0,2,0,0.87,,,0.87,,Matches
-130,131,Kristine Karstad,no NOR,DF,Arna-Bjørnar,15.0,2001.0,1,0,8,0.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-131,132,Juliette Kemppi,fi FIN,FW,Kolbotn,22.0,1994.0,22,21,1830,20.3,5,,5,0,0,0,0,0.25,,,0.25,,Matches
-132,133,Mina Kjørum,no NOR,FW,Stabæk,23.0,1993.0,21,19,1644,18.3,1,,1,0,0,0,0,0.05,,,0.05,,Matches
-133,134,Mariken Kleppe,no NOR,DF,Røa,19.0,1997.0,2,0,4,0.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-134,135,Julie Klæboe,no NOR,MF,Kolbotn,17.0,1999.0,10,10,776,8.6,1,,1,0,0,0,0,0.12,,,0.12,,Matches
-135,136,Elida Knudsen,no NOR,DF,Sandviken,20.0,1996.0,8,1,164,1.8,1,,1,0,0,0,0,0.55,,,0.55,,Matches
-136,137,Hanne Kogstad,no NOR,FW,Klepp,26.0,1990.0,22,22,1858,20.6,6,,6,0,0,0,0,0.29,,,0.29,,Matches
-137,138,Elise Krieghoff,us USA,FW,Vålerenga,23.0,1993.0,19,13,1173,13.0,7,,7,0,0,2,0,0.54,,,0.54,,Matches
-138,139,Emilie Kristiansen,no NOR,FW,Medkila,17.0,1999.0,20,20,1621,18.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-139,140,Mia Kristin Nygard,no NOR,MF,Sandviken,23.0,1993.0,8,1,199,2.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-140,141,Sara Kristine Eggesvik,no NOR,MF,Grand Bodø,19.0,1997.0,21,19,1706,19.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-141,142,Ina Kristoffersen,no NOR,DF,Klepp,17.0,1999.0,5,0,47,0.5,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-142,143,Megan Kufeld,us USA,GK,Medkila,23.0,1993.0,11,11,967,10.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-143,144,Camilla Kur Larsen,dk DEN,FW,Vålerenga,27.0,1989.0,11,8,789,8.8,2,,2,0,0,0,0,0.23,,,0.23,,Matches
-144,145,Cecilie Kvamme,no NOR,DF,Arna-Bjørnar,21.0,1995.0,20,18,1643,18.3,2,,2,0,0,1,0,0.11,,,0.11,,Matches
-145,146,Ingrid Kvernvolden,no NOR,FW,LSK Kvinner,18.0,1998.0,18,3,527,5.9,7,,7,0,0,0,0,1.2,,,1.2,,Matches
-146,147,Elise Kvinge,no NOR,FW,Sandviken,14.0,2002.0,1,0,6,0.1,1,,1,0,0,0,0,15.0,,,15.0,,Matches
-147,148,Lena Lauve,no NOR,GK,LSK Kvinner,28.0,1988.0,3,2,187,2.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-148,149,Kristine Leine,no NOR,DF,Røa,20.0,1996.0,22,22,1980,22.0,1,,1,0,0,1,0,0.05,,,0.05,,Matches
-149,150,Gabrielle Lemos Lie,no NOR,MF,Røa,18.0,1998.0,8,2,270,3.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-150,151,Cecilie Liane,no NOR,DF,Stabæk,25.0,1991.0,22,22,1958,21.8,1,,1,0,0,1,0,0.05,,,0.05,,Matches
-151,152,Mali Lilleås Næss,no NOR,DF,Trondheims-Ørn,22.0,1994.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-152,153,Sunniva Lillestøl,no NOR,MF,Sandviken,22.0,1994.0,20,15,1358,15.1,2,,2,0,0,0,0,0.13,,,0.13,,Matches
-153,154,Anita Line Nermark,no NOR,DF,Medkila,,,1,0,15,0.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-154,155,Anne Lise Olsen,no NOR,FW,Vålerenga,22.0,1994.0,14,9,812,9.0,4,,4,0,0,2,0,0.44,,,0.44,,Matches
-155,156,Chloe Logarzo,au AUS,MF,Avaldsnes,22.0,1994.0,13,12,921,10.2,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-156,157,Luana,br BRA,MF,Avaldsnes,23.0,1993.0,16,11,1135,12.6,6,,6,0,0,3,0,0.48,,,0.48,,Matches
-157,158,Victoria Ludvigsen,no NOR,FW,Stabæk,23.0,1993.0,22,22,1888,21.0,8,,8,0,0,0,0,0.38,,,0.38,,Matches
-158,159,Aivi Luik,au AUS,MF,Vålerenga,31.0,1985.0,21,21,1793,19.9,3,,3,0,0,0,0,0.15,,,0.15,,Matches
-159,160,Anna Lysebo,no NOR,MF,Sandviken,17.0,2000.0,1,0,18,0.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-160,161,Frida Lyshoel,no NOR,DF,Vålerenga,21.0,1996.0,9,0,143,1.6,1,,1,0,0,0,0,0.63,,,0.63,,Matches
-161,162,Frida Maanum,no NOR,DF,Stabæk,17.0,1999.0,11,11,945,10.5,2,,2,0,0,1,0,0.19,,,0.19,,Matches
-162,163,Maja Maria Nordahl,no NOR,DF,Kolbotn,28.0,1988.0,17,14,1252,13.9,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-163,164,Ingrid Marie Spord,no NOR,MF,LSK Kvinner,22.0,1994.0,22,22,1951,21.7,1,,1,0,0,2,0,0.05,,,0.05,,Matches
-164,165,Tiffany McCarty,us USA,FW,Medkila,26.0,1990.0,7,6,558,6.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-165,166,Jenna McCormick,au AUS,DF,Medkila,22.0,1994.0,9,9,810,9.0,1,,1,0,0,0,0,0.11,,,0.11,,Matches
-166,167,Aurora Mikalsen,no NOR,GK,Kolbotn,20.0,1996.0,22,22,1954,21.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-167,168,Maria Min Sørenes,no NOR,FW,Klepp,20.0,1996.0,19,4,579,6.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-168,169,Andrine Mo,no NOR,MF,Arna-Bjørnar,16.0,2000.0,1,0,8,0.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-169,170,Ingrid Moe Wold,no NOR,DF,LSK Kvinner,27.0,1990.0,22,22,1980,22.0,1,,1,0,0,0,0,0.05,,,0.05,,Matches
-170,171,Rebecca Mykland,no NOR,MF,Stabæk,19.0,1997.0,7,2,192,2.1,1,,1,0,0,0,0,0.47,,,0.47,,Matches
-171,172,Tanja Myrseth,no NOR,FW,Trondheims-Ørn,19.0,1997.0,9,3,281,3.1,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-172,173,Lisa Naalsund,no NOR,MF,Arna-Bjørnar,21.0,1995.0,21,21,1889,21.0,4,,3,1,1,3,0,0.19,,,0.14,,Matches
-173,174,Josée Nahi,ci CIV,FW,Arna-Bjørnar,27.0,1989.0,20,15,1373,15.3,7,,7,0,0,3,0,0.46,,,0.46,,Matches
-174,175,Emilie Nautnes,no NOR,FW,Arna-Bjørnar,18.0,1999.0,21,20,1574,17.5,3,,3,0,0,3,1,0.17,,,0.17,,Matches
-175,176,Nora Neset Gjøen,no NOR,GK,Sandviken,24.0,1992.0,21,21,1890,21.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-176,177,Theresa Nielsen,dk DEN,DF,Vålerenga,30.0,1986.0,22,22,1948,21.6,2,,2,0,0,2,0,0.09,,,0.09,,Matches
-177,178,Siri Nordeide Grønli,no NOR,DF,Stabæk,32.0,1984.0,22,22,1980,22.0,1,,1,0,0,0,0,0.05,,,0.05,,Matches
-178,179,Ingeborg Nordheim,no NOR,FW,Grand Bodø,28.0,1988.0,11,2,349,3.9,1,,1,0,0,0,0,0.26,,,0.26,,Matches
-179,180,Jennie Nordin,se SWE,DF,Vålerenga,23.0,1993.0,22,21,1903,21.1,4,,4,0,0,2,0,0.19,,,0.19,,Matches
-180,181,Hege Nordvik,no NOR,FW,Grand Bodø,25.0,1991.0,10,10,847,9.4,0,,0,0,0,2,0,0.0,,,0.0,,Matches
-181,182,Jenny Norem,no NOR,FW,Kolbotn,18.0,1998.0,9,3,316,3.5,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-182,183,Cecilie Noreng,no NOR,MF,Grand Bodø,23.0,1993.0,5,2,157,1.7,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-183,184,Louise Normann,no NOR,DF,Medkila,19.0,1997.0,16,10,1002,11.1,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-184,185,Rikke Nygård,no NOR,MF,Arna-Bjørnar,16.0,2000.0,15,8,900,10.0,1,,1,0,0,0,0,0.1,,,0.1,,Matches
-185,186,Kristine Nøstmo,no NOR,GK,Trondheims-Ørn,23.0,1993.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-186,187,Iselin Olsen,no NOR,DF,Grand Bodø,18.0,1998.0,2,1,64,0.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-187,188,Martine Olsen,no NOR,DF,Medkila,,,7,0,59,0.7,1,,1,0,0,0,0,1.53,,,1.53,,Matches
-188,189,Maria Olsvik,no NOR,MF,Trondheims-Ørn,22.0,1994.0,19,10,940,10.4,1,,1,0,0,0,0,0.1,,,0.1,,Matches
-189,190,Camilla Ose,no NOR,FW,Kolbotn,20.0,1996.0,9,6,507,5.6,1,,1,0,0,0,0,0.18,,,0.18,,Matches
-190,191,Cecilie Pedersen,no NOR,FW,Avaldsnes,26.0,1990.0,20,16,1431,15.9,11,,11,0,0,2,0,0.69,,,0.69,,Matches
-191,192,Tonje Pedersen,no NOR,MF,Kolbotn,22.0,1994.0,22,22,1980,22.0,1,,1,0,0,2,0,0.05,,,0.05,,Matches
-192,193,Guro Pettersen,no NOR,GK,Arna-Bjørnar,25.0,1991.0,1,1,90,1.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-193,194,Shade Pratt,us USA,DF,Stabæk,23.0,1993.0,7,0,124,1.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-194,195,Shade Pratt,us USA,DF,Røa,23.0,1993.0,7,2,183,2.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-195,196,Alexandra Quincey,us USA,DF,Medkila,24.0,1992.0,12,12,1080,12.0,1,,1,0,0,3,0,0.08,,,0.08,,Matches
-196,197,Anja Rasmussen,no NOR,DF,Medkila,18.0,1998.0,21,21,1872,20.8,3,,3,0,0,4,1,0.14,,,0.14,,Matches
-197,198,Stine Reinås,no NOR,DF,Stabæk,22.0,1994.0,22,22,1980,22.0,1,,1,0,0,0,0,0.05,,,0.05,,Matches
-198,199,Guro Reiten,no NOR,MF,LSK Kvinner,22.0,1994.0,22,22,1926,21.4,18,,16,2,2,2,0,0.84,,,0.75,,Matches
-199,200,Kristin Risnes,no NOR,DF,Arna-Bjørnar,20.0,1996.0,15,8,786,8.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-200,201,Arianna Romero,mx MEX,DF,Vålerenga,24.0,1992.0,8,8,720,8.0,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-201,202,Malin Runestad,no NOR,MF,Klepp,18.0,1998.0,5,0,27,0.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-202,203,Linda Ruutu,fi FIN,FW,Grand Bodø,26.0,1990.0,10,9,754,8.4,1,,1,0,0,1,0,0.12,,,0.12,,Matches
-203,204,Ingrid Ryland,no NOR,"DF,MF",Avaldsnes,27.0,1989.0,18,18,1609,17.9,1,,1,0,0,0,0,0.06,,,0.06,,Matches
-204,205,Trine Rønning,no NOR,"DF,MF",Stabæk,34.0,1982.0,20,19,1537,17.1,2,,2,0,0,0,0,0.12,,,0.12,,Matches
-205,206,Synnøve Rønquist Hafnor,no NOR,DF,Grand Bodø,19.0,1998.0,17,9,886,9.8,3,,3,0,0,2,0,0.3,,,0.3,,Matches
-206,207,Elen Sagmo Melhus,no NOR,FW,Trondheims-Ørn,23.0,1993.0,21,20,1519,16.9,7,,7,0,0,0,0,0.41,,,0.41,,Matches
-207,208,Svanhild Sand,no NOR,DF,Trondheims-Ørn,18.0,1998.0,12,9,775,8.6,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-208,209,Marianne Sandnes,no NOR,GK,Kolbotn,16.0,2000.0,1,0,26,0.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-209,210,Kirvil Schau Odden,no NOR,GK,Røa,24.0,1992.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-210,211,Gema Simon,au AUS,"DF,MF",Avaldsnes,26.0,1990.0,13,11,950,10.6,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-211,212,Ina Skaug,no NOR,MF,Røa,24.0,1992.0,18,15,1273,14.1,5,,5,0,0,3,0,0.35,,,0.35,,Matches
-212,213,Trine Skjelstad Jensen,no NOR,DF,Grand Bodø,22.0,1994.0,21,21,1890,21.0,6,,6,0,0,3,0,0.29,,,0.29,,Matches
-213,214,Synne Sofie Christiansen,no NOR,FW,Vålerenga,20.0,1996.0,12,3,364,4.0,1,,1,0,0,0,0,0.25,,,0.25,,Matches
-214,215,Ine Sofie Østmo,no NOR,MF,Stabæk,17.0,1999.0,1,0,35,0.4,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-215,216,Lena Soleng Hansen,no NOR,DF,Klepp,22.0,1994.0,22,20,1813,20.1,1,,1,0,0,0,0,0.05,,,0.05,,Matches
-216,217,Sandra Stavenes,no NOR,GK,Arna-Bjørnar,21.0,1995.0,3,3,270,3.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-217,218,Elise Stenevik,no NOR,MF,Arna-Bjørnar,17.0,1999.0,20,18,1514,16.8,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-218,219,Ingrid Stenevik,no NOR,DF,Arna-Bjørnar,22.0,1994.0,22,22,1972,21.9,1,,1,0,0,1,0,0.05,,,0.05,,Matches
-219,220,Rebekka Strøm Hansen,no NOR,DF,Medkila,15.0,2001.0,10,2,294,3.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-220,221,Sarah Suphellen,no NOR,DF,Trondheims-Ørn,18.0,1998.0,15,15,1288,14.3,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-221,222,Karoline Surdal,no NOR,MF,Klepp,22.0,1994.0,19,14,1186,13.2,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-222,223,Maja Svendsgam Olsen,no NOR,MF,Grand Bodø,21.0,1996.0,11,4,379,4.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-223,224,Sanna Svensson,se SWE,DF,Kolbotn,25.0,1991.0,14,9,894,9.9,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-224,225,Ingrid Syrstad Engen,no NOR,MF,Trondheims-Ørn,18.0,1998.0,22,22,1977,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-225,226,Hildegunn Sævik,no NOR,GK,Avaldsnes,19.0,1998.0,4,2,226,2.5,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-226,227,Karina Sævik,no NOR,MF,Kolbotn,20.0,1996.0,22,22,1980,22.0,4,,4,0,0,0,0,0.18,,,0.18,,Matches
-227,228,Ingrid Søndenå,no NOR,DF,Vålerenga,23.0,1993.0,11,10,870,9.7,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-228,229,Anja Sønstevold,no NOR,MF,LSK Kvinner,24.0,1992.0,21,21,1890,21.0,1,,1,0,0,1,0,0.05,,,0.05,,Matches
-229,230,Ryōko Takara,jp JPN,MF,LSK Kvinner,26.0,1990.0,15,11,898,10.0,3,,3,0,0,0,0,0.3,,,0.3,,Matches
-230,231,Trine Taule,no NOR,MF,Sandviken,25.0,1991.0,4,2,151,1.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-231,232,Elisabeth Terland,no NOR,MF,Klepp,15.0,2001.0,17,14,1132,12.6,2,,2,0,0,2,0,0.16,,,0.16,,Matches
-232,233,Crystal Thomas,us USA,FW,Medkila,23.0,1994.0,10,10,900,10.0,1,,1,0,0,0,0,0.1,,,0.1,,Matches
-233,234,Maria Thorisdottir,no NOR,DF,Klepp,23.0,1993.0,14,14,1204,13.4,1,,1,0,0,1,1,0.07,,,0.07,,Matches
-234,235,Elise Thorsnes,no NOR,FW,Avaldsnes,28.0,1988.0,22,22,1974,21.9,11,,11,0,0,0,0,0.5,,,0.5,,Matches
-235,236,Gry Tofte Ims,no NOR,MF,Klepp,30.0,1986.0,13,9,897,10.0,2,,2,0,0,0,0,0.2,,,0.2,,Matches
-236,237,Andrine Tomter,no NOR,DF,Avaldsnes,21.0,1995.0,13,12,1109,12.3,2,,2,0,0,0,0,0.16,,,0.16,,Matches
-237,238,Luna Torsfred,no NOR,FW,Medkila,,,1,0,21,0.2,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-238,239,Olaug Tvedten,no NOR,FW,Avaldsnes,16.0,2000.0,11,5,533,5.9,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-239,240,Nathalie Utvik,no NOR,DF,Avaldsnes,23.0,1993.0,6,2,174,1.9,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-240,241,Nathalie Utvik,no NOR,DF,Røa,23.0,1993.0,10,8,715,7.9,0,,0,0,0,1,0,0.0,,,0.0,,Matches
-241,242,Siiri Välimaa,fi FIN,GK,Grand Bodø,26.0,1990.0,20,20,1800,20.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-242,243,Synne Vatnem,no NOR,FW,Avaldsnes,17.0,1999.0,11,1,202,2.2,1,,1,0,0,0,0,0.45,,,0.45,,Matches
-243,244,Madelaine Veivåg,no NOR,MF,Sandviken,16.0,2000.0,8,0,117,1.3,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-244,245,Stephanie Verdoia,us USA,MF,Vålerenga,24.0,1993.0,22,20,1643,18.3,1,,1,0,0,1,0,0.05,,,0.05,,Matches
-245,246,Silje Vesterbekkmo,no NOR,GK,Grand Bodø,33.0,1983.0,2,2,180,2.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-246,247,Ingvild Villa,no NOR,GK,Sandviken,20.0,1996.0,1,1,90,1.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-247,248,Susanne Vistnes,no NOR,FW,Klepp,24.0,1992.0,22,22,1956,21.7,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-248,249,Ellen Wang,no NOR,DF,Vålerenga,27.0,1989.0,20,19,1707,19.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-249,250,Ine Wedaa,no NOR,FW,Arna-Bjørnar,21.0,1995.0,7,3,239,2.7,2,,2,0,0,0,0,0.75,,,0.75,,Matches
-250,251,Anna Westerlund,fi FIN,"DF,MF",LSK Kvinner,27.0,1989.0,22,22,1980,22.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-251,252,Sunniva Wiencke,no NOR,MF,Røa,21.0,1995.0,3,1,49,0.5,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-252,253,Andrea Wilmann,no NOR,MF,Stabæk,18.0,1998.0,18,12,1187,13.2,7,,7,0,0,0,0,0.53,,,0.53,,Matches
-253,254,Katrine Winnem Jørgensen,no NOR,MF,Røa,20.0,1997.0,21,20,1800,20.0,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-254,255,Emilie Woldvik,no NOR,DF,LSK Kvinner,18.0,1999.0,8,2,225,2.5,1,,1,0,0,0,0,0.4,,,0.4,,Matches
-255,256,Lisa-Marie Woods,no NOR,MF,Avaldsnes,32.0,1984.0,8,8,645,7.2,0,,0,0,0,0,0,0.0,,,0.0,,Matches
-256,257,Kirsty Yallop,nz NZL,MF,Klepp,30.0,1986.0,22,22,1926,21.4,3,,1,2,2,2,0,0.14,,,0.05,,Matches
-257,258,Gunnhildur Yrsa Jónsdóttir,is ISL,MF,Vålerenga,28.0,1988.0,21,21,1890,21.0,5,,5,0,0,1,0,0.24,,,0.24,,Matches
-258,259,Emilie Østerås,no NOR,MF,Vålerenga,14.0,2002.0,2,0,52,0.6,1,,1,0,0,0,0,1.73,,,1.73,,Matches
-259,260,Vilde Øyri,no NOR,FW,Sandviken,22.0,1994.0,10,3,374,4.2,1,,1,0,0,0,0,0.24,,,0.24,,Matches
+,Rk,Player,Squad,MP,Min,Gls,Gls
+0,1,Marianne Aamot Linaker,Medkila,4,359,0,0.0
+1,2,Meryll Abrahamsen,Avaldsnes,17,945,1,0.1
+2,3,Julie Adserø,Trondheims-Ørn,9,791,5,0.57
+3,4,Ine Agnethe Aarskog,Klepp,3,165,0,0.0
+4,5,Teigen Allen,Vålerenga,4,266,0,0.0
+5,6,Silje Almström Franzén,Trondheims-Ørn,2,29,0,0.0
+6,7,Ingrid Altermark,Arna-Bjørnar,11,528,2,0.34
+7,8,Jacqueline Altschuld,Medkila,10,900,1,0.1
+8,9,Kristine Amundsen,Medkila,2,17,0,0.0
+9,10,Andréia Rosa de Andrade,Avaldsnes,20,1784,1,0.05
+10,11,Cesilie Andreassen,Trondheims-Ørn,20,1568,4,0.23
+11,12,Marie Andresen,Klepp,8,340,0,0.0
+12,13,Emily Armstrong,Medkila,10,900,0,0.0
+13,14,Therese Åsland,Røa,22,1965,3,0.14
+14,15,Isabell Bachor,LSK Kvinner,21,1851,2,0.1
+15,16,Hannah Bacon,Trondheims-Ørn,8,245,0,0.0
+16,17,Karoline Bakke,Sandviken,20,1693,0,0.0
+17,18,Maiken Bakke,Grand Bodø,15,663,1,0.14
+18,19,Marte Berget,LSK Kvinner,19,804,10,1.12
+19,20,Michelle Betos,Vålerenga,20,1765,0,0.0
+20,21,Tone Bettina Pirisi,Kolbotn,16,929,0,0.0
+21,22,Anne-Marthe Birkeland,Grand Bodø,22,1804,11,0.55
+22,23,Melissa Bjånesøy,Stabæk,21,1855,11,0.53
+23,24,Thea Bjelde,Arna-Bjørnar,8,223,1,0.4
+24,25,Silje Bjørneboe,Stabæk,2,46,0,0.0
+25,26,Silje Blakstad,LSK Kvinner,13,589,2,0.31
+26,27,Oda Bogstad,Klepp,22,1980,0,0.0
+27,28,Emilie Bragstad,Trondheims-Ørn,1,2,0,0.0
+28,29,Marit Bratberg Lund,Kolbotn,14,1112,1,0.08
+29,30,Vilde Bratland,Røa,9,508,0,0.0
+30,31,Malin Brenn,LSK Kvinner,19,1677,0,0.0
+31,32,Maria Brochmann,Arna-Bjørnar,17,1206,2,0.15
+32,33,Marije Brummel,Sandviken,20,1793,2,0.1
+33,34,Christina Burkenroad,Grand Bodø,10,698,1,0.13
+34,35,Tameka Butt,Klepp,19,1676,14,0.75
+35,36,Miriam Byberg,Klepp,2,3,0,0.0
+36,37,Nora Byom-Nilssen,Røa,22,1973,3,0.14
+37,38,Camilla Christensen,Vålerenga,1,4,0,0.0
+38,39,Marit Clausen,Trondheims-Ørn,10,866,1,0.1
+39,40,Anya de Courcy,Trondheims-Ørn,7,128,1,0.7
+40,41,Hanna Dahl,Avaldsnes,20,980,2,0.18
+41,42,Daiane,Avaldsnes,18,1547,1,0.06
+42,43,Tina Dalgård,Vålerenga,17,1335,0,0.0
+43,44,Cathrine Dekkerhus,Stabæk,2,13,0,0.0
+44,45,Line Dverseth Danielsen,Grand Bodø,20,1422,1,0.06
+45,46,Sigrun Dybvik,Medkila,19,1529,0,0.0
+46,47,Camilla Dyhring Hansen,Medkila,3,34,0,0.0
+47,48,Siw Døvle,Trondheims-Ørn,10,763,0,0.0
+48,49,Siw Døvle,Kolbotn,10,847,0,0.0
+49,50,Vile Edvardsen,Grand Bodø,3,85,0,0.0
+50,51,Oda Eide Arnesen,Avaldsnes,3,38,0,0.0
+51,52,Nora Eide Lie,Kolbotn,13,974,0,0.0
+52,53,Åsne Eide,Trondheims-Ørn,7,616,0,0.0
+53,54,Amalie Eikeland,Arna-Bjørnar,22,1918,5,0.23
+54,55,Sina Elise Tosterud,Sandviken,19,1288,1,0.07
+55,56,Heidi Ellingsen,Stabæk,21,1349,3,0.2
+56,57,Ingrid Elvebakken,Kolbotn,22,1980,0,0.0
+57,58,Rakel Engesvik,Trondheims-Ørn,22,1442,8,0.5
+58,59,Tine Erichsen Engan,Grand Bodø,15,1275,0,0.0
+59,60,Camilla Ervik,Sandviken,21,1712,2,0.11
+60,61,Josefine Ervik,Vålerenga,3,214,0,0.0
+61,62,Tuva Espås,Røa,7,61,0,0.0
+62,63,Cecilie Falch,Grand Bodø,10,582,1,0.15
+63,64,Lotte Fikseth Fossem,Medkila,21,1844,0,0.0
+64,65,Cecilie Fiskerstrand,LSK Kvinner,20,1793,0,0.0
+65,66,Vilde Fjelldal,Grand Bodø,15,1271,4,0.28
+66,67,Ida Fjordbakk,LSK Kvinner,3,171,0,0.0
+67,68,Martine Flakk,Stabæk,10,195,1,0.46
+68,69,Emma Fletcher,Arna-Bjørnar,16,1142,2,0.16
+69,70,Ida Marie Fikseth Fossem,Medkila,22,1980,0,0.0
+70,71,Katie Fraine,Avaldsnes,20,1754,0,0.0
+71,72,Francielle,Avaldsnes,22,1960,3,0.14
+72,73,Savannah Francis,Grand Bodø,20,1775,0,0.0
+73,74,Tina Fremo,Trondheims-Ørn,20,1672,2,0.11
+74,75,Johanne Fridlund,Vålerenga,8,560,0,0.0
+75,76,Oda Fugelsnes,Trondheims-Ørn,22,1768,4,0.2
+76,77,Ina Gausdal,Kolbotn,22,1927,1,0.05
+77,78,Alyssa Giannetti,Arna-Bjørnar,16,1440,0,0.0
+78,79,Emily Gielnik,Avaldsnes,19,1606,8,0.45
+79,80,Helene Gloppen,Arna-Bjørnar,22,1965,3,0.14
+80,81,Antonia Göransson,Kolbotn,10,598,1,0.15
+81,82,Celine Granli,Stabæk,8,289,1,0.31
+82,83,Kristina Grøndal,Sandviken,22,1923,0,0.0
+83,84,Solveig Gulbrandsen,Kolbotn,6,193,0,0.0
+84,85,Emilie Haavi,LSK Kvinner,9,680,3,0.4
+85,86,Benedicte Håland,Arna-Bjørnar,2,180,0,0.0
+86,87,June Hammersland,Sandviken,18,1542,1,0.06
+87,88,Hege Hansen,Klepp,21,1794,4,0.2
+88,89,Synne Hansen,LSK Kvinner,19,1222,3,0.22
+89,90,Tuva Hansen,Klepp,22,1980,0,0.0
+90,91,Benedikthe Hartvigsen,Avaldsnes,3,67,0,0.0
+91,92,Vilde Hasund,Røa,18,1370,5,0.33
+92,93,Sophie Haug,LSK Kvinner,20,1429,15,0.94
+93,94,Maren Hauge,Vålerenga,20,1454,7,0.43
+94,95,Hedda Haugene,Røa,7,38,0,0.0
+95,96,Margunn Haugenes,Medkila,1,62,0,0.0
+96,97,My Haugland Sørsdahl,Kolbotn,11,816,0,0.0
+97,98,Andrea Haugstøyl,Trondheims-Ørn,13,915,3,0.3
+98,99,Karoline Heimvik Haugland,Arna-Bjørnar,18,873,2,0.21
+99,100,Sigrid Helbostad,Grand Bodø,15,1250,0,0.0
+100,101,Line Hem,Røa,6,348,0,0.0
+101,102,Gunhild Herregården,Røa,20,1753,2,0.1
+102,103,Maria Hiim,Klepp,15,1156,0,0.0
+103,104,Laila Himle,Sandviken,20,1661,0,0.0
+104,105,Marte Hjelmhaug,Sandviken,15,785,1,0.11
+105,106,Ingrid Hjelmseth,Stabæk,22,1980,0,0.0
+106,107,Marita Holmen Iversen,Røa,17,1403,0,0.0
+107,108,Line Holter,Røa,20,1785,3,0.15
+108,109,Rebecka Holum,Røa,8,492,3,0.55
+109,110,Caroline Hovland,Kolbotn,3,27,0,0.0
+110,111,Stine Hovland,Sandviken,22,1980,1,0.05
+111,112,Maria Hustad,Medkila,21,1845,0,0.0
+112,113,Celin Ildhusøy,Vålerenga,6,105,0,0.0
+113,114,Adriana Imeri,Vålerenga,6,201,0,0.0
+114,115,Krystina Iordanou,Medkila,2,180,1,0.5
+115,116,Ingvild Isaksen,Stabæk,9,744,0,0.0
+116,117,Hedda Jakobsen,Medkila,14,775,0,0.0
+117,118,Marina Jensen,Sandviken,21,1324,3,0.2
+118,119,Sofie Jensen,Sandviken,21,1574,6,0.34
+119,120,Synne Jensen,Stabæk,22,1839,4,0.2
+120,121,Elisabeth Jeppesen,Røa,2,17,0,0.0
+121,122,Maren Johansen,Kolbotn,17,862,1,0.1
+122,123,Silje Johansen,Medkila,16,1141,0,0.0
+123,124,Fanny Johansson,Medkila,11,990,0,0.0
+124,125,Amalie Johnsen,Grand Bodø,22,1943,0,0.0
+125,126,Hanna Jønland,Avaldsnes,1,12,0,0.0
+126,127,Kristin Jørgensen,Trondheims-Ørn,15,235,0,0.0
+127,128,Sofie Jørgensen,Sandviken,2,138,1,0.65
+128,129,Anna Jøsendal,Avaldsnes,3,118,1,0.76
+129,130,Lisa-Marie Karlseng Utland,Røa,20,1766,17,0.87
+130,131,Kristine Karstad,Arna-Bjørnar,1,8,0,0.0
+131,132,Juliette Kemppi,Kolbotn,22,1830,5,0.25
+132,133,Mina Kjørum,Stabæk,21,1644,1,0.05
+133,134,Mariken Kleppe,Røa,2,4,0,0.0
+134,135,Julie Klæboe,Kolbotn,10,776,1,0.12
+135,136,Elida Knudsen,Sandviken,8,164,1,0.55
+136,137,Hanne Kogstad,Klepp,22,1858,6,0.29
+137,138,Elise Krieghoff,Vålerenga,19,1173,7,0.54
+138,139,Emilie Kristiansen,Medkila,20,1621,0,0.0
+139,140,Mia Kristin Nygard,Sandviken,8,199,0,0.0
+140,141,Sara Kristine Eggesvik,Grand Bodø,21,1706,0,0.0
+141,142,Ina Kristoffersen,Klepp,5,47,0,0.0
+142,143,Megan Kufeld,Medkila,11,967,0,0.0
+143,144,Camilla Kur Larsen,Vålerenga,11,789,2,0.23
+144,145,Cecilie Kvamme,Arna-Bjørnar,20,1643,2,0.11
+145,146,Ingrid Kvernvolden,LSK Kvinner,18,527,7,1.2
+146,147,Elise Kvinge,Sandviken,1,6,1,15.0
+147,148,Lena Lauve,LSK Kvinner,3,187,0,0.0
+148,149,Kristine Leine,Røa,22,1980,1,0.05
+149,150,Gabrielle Lemos Lie,Røa,8,270,0,0.0
+150,151,Cecilie Liane,Stabæk,22,1958,1,0.05
+151,152,Mali Lilleås Næss,Trondheims-Ørn,22,1980,0,0.0
+152,153,Sunniva Lillestøl,Sandviken,20,1358,2,0.13
+153,154,Anita Line Nermark,Medkila,1,15,0,0.0
+154,155,Anne Lise Olsen,Vålerenga,14,812,4,0.44
+155,156,Chloe Logarzo,Avaldsnes,13,921,0,0.0
+156,157,Luana,Avaldsnes,16,1135,6,0.48
+157,158,Victoria Ludvigsen,Stabæk,22,1888,8,0.38
+158,159,Aivi Luik,Vålerenga,21,1793,3,0.15
+159,160,Anna Lysebo,Sandviken,1,18,0,0.0
+160,161,Frida Lyshoel,Vålerenga,9,143,1,0.63
+161,162,Frida Maanum,Stabæk,11,945,2,0.19
+162,163,Maja Maria Nordahl,Kolbotn,17,1252,0,0.0
+163,164,Ingrid Marie Spord,LSK Kvinner,22,1951,1,0.05
+164,165,Tiffany McCarty,Medkila,7,558,0,0.0
+165,166,Jenna McCormick,Medkila,9,810,1,0.11
+166,167,Aurora Mikalsen,Kolbotn,22,1954,0,0.0
+167,168,Maria Min Sørenes,Klepp,19,579,0,0.0
+168,169,Andrine Mo,Arna-Bjørnar,1,8,0,0.0
+169,170,Ingrid Moe Wold,LSK Kvinner,22,1980,1,0.05
+170,171,Rebecca Mykland,Stabæk,7,192,1,0.47
+171,172,Tanja Myrseth,Trondheims-Ørn,9,281,0,0.0
+172,173,Lisa Naalsund,Arna-Bjørnar,21,1889,4,0.19
+173,174,Josée Nahi,Arna-Bjørnar,20,1373,7,0.46
+174,175,Emilie Nautnes,Arna-Bjørnar,21,1574,3,0.17
+175,176,Nora Neset Gjøen,Sandviken,21,1890,0,0.0
+176,177,Theresa Nielsen,Vålerenga,22,1948,2,0.09
+177,178,Siri Nordeide Grønli,Stabæk,22,1980,1,0.05
+178,179,Ingeborg Nordheim,Grand Bodø,11,349,1,0.26
+179,180,Jennie Nordin,Vålerenga,22,1903,4,0.19
+180,181,Hege Nordvik,Grand Bodø,10,847,0,0.0
+181,182,Jenny Norem,Kolbotn,9,316,0,0.0
+182,183,Cecilie Noreng,Grand Bodø,5,157,0,0.0
+183,184,Louise Normann,Medkila,16,1002,0,0.0
+184,185,Rikke Nygård,Arna-Bjørnar,15,900,1,0.1
+185,186,Kristine Nøstmo,Trondheims-Ørn,22,1980,0,0.0
+186,187,Iselin Olsen,Grand Bodø,2,64,0,0.0
+187,188,Martine Olsen,Medkila,7,59,1,1.53
+188,189,Maria Olsvik,Trondheims-Ørn,19,940,1,0.1
+189,190,Camilla Ose,Kolbotn,9,507,1,0.18
+190,191,Cecilie Pedersen,Avaldsnes,20,1431,11,0.69
+191,192,Tonje Pedersen,Kolbotn,22,1980,1,0.05
+192,193,Guro Pettersen,Arna-Bjørnar,1,90,0,0.0
+193,194,Shade Pratt,Stabæk,7,124,0,0.0
+194,195,Shade Pratt,Røa,7,183,0,0.0
+195,196,Alexandra Quincey,Medkila,12,1080,1,0.08
+196,197,Anja Rasmussen,Medkila,21,1872,3,0.14
+197,198,Stine Reinås,Stabæk,22,1980,1,0.05
+198,199,Guro Reiten,LSK Kvinner,22,1926,18,0.84
+199,200,Kristin Risnes,Arna-Bjørnar,15,786,0,0.0
+200,201,Arianna Romero,Vålerenga,8,720,0,0.0
+201,202,Malin Runestad,Klepp,5,27,0,0.0
+202,203,Linda Ruutu,Grand Bodø,10,754,1,0.12
+203,204,Ingrid Ryland,Avaldsnes,18,1609,1,0.06
+204,205,Trine Rønning,Stabæk,20,1537,2,0.12
+205,206,Synnøve Rønquist Hafnor,Grand Bodø,17,886,3,0.3
+206,207,Elen Sagmo Melhus,Trondheims-Ørn,21,1519,7,0.41
+207,208,Svanhild Sand,Trondheims-Ørn,12,775,0,0.0
+208,209,Marianne Sandnes,Kolbotn,1,26,0,0.0
+209,210,Kirvil Schau Odden,Røa,22,1980,0,0.0
+210,211,Gema Simon,Avaldsnes,13,950,0,0.0
+211,212,Ina Skaug,Røa,18,1273,5,0.35
+212,213,Trine Skjelstad Jensen,Grand Bodø,21,1890,6,0.29
+213,214,Synne Sofie Christiansen,Vålerenga,12,364,1,0.25
+214,215,Ine Sofie Østmo,Stabæk,1,35,0,0.0
+215,216,Lena Soleng Hansen,Klepp,22,1813,1,0.05
+216,217,Sandra Stavenes,Arna-Bjørnar,3,270,0,0.0
+217,218,Elise Stenevik,Arna-Bjørnar,20,1514,0,0.0
+218,219,Ingrid Stenevik,Arna-Bjørnar,22,1972,1,0.05
+219,220,Rebekka Strøm Hansen,Medkila,10,294,0,0.0
+220,221,Sarah Suphellen,Trondheims-Ørn,15,1288,0,0.0
+221,222,Karoline Surdal,Klepp,19,1186,0,0.0
+222,223,Maja Svendsgam Olsen,Grand Bodø,11,379,0,0.0
+223,224,Sanna Svensson,Kolbotn,14,894,0,0.0
+224,225,Ingrid Syrstad Engen,Trondheims-Ørn,22,1977,0,0.0
+225,226,Hildegunn Sævik,Avaldsnes,4,226,0,0.0
+226,227,Karina Sævik,Kolbotn,22,1980,4,0.18
+227,228,Ingrid Søndenå,Vålerenga,11,870,0,0.0
+228,229,Anja Sønstevold,LSK Kvinner,21,1890,1,0.05
+229,230,Ryōko Takara,LSK Kvinner,15,898,3,0.3
+230,231,Trine Taule,Sandviken,4,151,0,0.0
+231,232,Elisabeth Terland,Klepp,17,1132,2,0.16
+232,233,Crystal Thomas,Medkila,10,900,1,0.1
+233,234,Maria Thorisdottir,Klepp,14,1204,1,0.07
+234,235,Elise Thorsnes,Avaldsnes,22,1974,11,0.5
+235,236,Gry Tofte Ims,Klepp,13,897,2,0.2
+236,237,Andrine Tomter,Avaldsnes,13,1109,2,0.16
+237,238,Luna Torsfred,Medkila,1,21,0,0.0
+238,239,Olaug Tvedten,Avaldsnes,11,533,0,0.0
+239,240,Nathalie Utvik,Avaldsnes,6,174,0,0.0
+240,241,Nathalie Utvik,Røa,10,715,0,0.0
+241,242,Siiri Välimaa,Grand Bodø,20,1800,0,0.0
+242,243,Synne Vatnem,Avaldsnes,11,202,1,0.45
+243,244,Madelaine Veivåg,Sandviken,8,117,0,0.0
+244,245,Stephanie Verdoia,Vålerenga,22,1643,1,0.05
+245,246,Silje Vesterbekkmo,Grand Bodø,2,180,0,0.0
+246,247,Ingvild Villa,Sandviken,1,90,0,0.0
+247,248,Susanne Vistnes,Klepp,22,1956,0,0.0
+248,249,Ellen Wang,Vålerenga,20,1707,0,0.0
+249,250,Ine Wedaa,Arna-Bjørnar,7,239,2,0.75
+250,251,Anna Westerlund,LSK Kvinner,22,1980,0,0.0
+251,252,Sunniva Wiencke,Røa,3,49,0,0.0
+252,253,Andrea Wilmann,Stabæk,18,1187,7,0.53
+253,254,Katrine Winnem Jørgensen,Røa,21,1800,0,0.0
+254,255,Emilie Woldvik,LSK Kvinner,8,225,1,0.4
+255,256,Lisa-Marie Woods,Avaldsnes,8,645,0,0.0
+256,257,Kirsty Yallop,Klepp,22,1926,3,0.14
+257,258,Gunnhildur Yrsa Jónsdóttir,Vålerenga,21,1890,5,0.24
+258,259,Emilie Østerås,Vålerenga,2,52,1,1.73
+259,260,Vilde Øyri,Sandviken,10,374,1,0.24

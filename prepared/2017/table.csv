@@ -1,13 +1,13 @@
-,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkeeper,Notes
-0,1,LSK Kvinner,22,19,2,1,68,18,50,59,265,Guro Reiten - 18,Cecilie Fiskerstrand,→ Champions League via league finish
-1,2,Avaldsnes,22,15,3,4,51,17,34,48,245,"Cecilie Pedersen, Elise Thorsnes - 11",Katie Fraine,→ Champions League via league finish
-2,3,Stabæk,22,13,4,5,46,23,23,43,193,Melissa Bjånesøy - 11,Ingrid Hjelmseth,
-3,4,Klepp,22,12,4,6,34,24,10,40,267,Tameka Butt - 14,Oda Bogstad,
-4,5,Røa,22,11,4,7,42,28,14,37,190,Lisa-Marie Karlseng Utland - 17,Kirvil Schau Odden,
-5,6,Arna-Bjørnar,22,9,8,5,39,28,11,35,194,Josée Nahi - 7,Alyssa Giannetti,
-6,7,Vålerenga,22,10,4,8,38,33,5,34,449,"Elise Krieghoff, Maren Hauge - 7",Michelle Betos,
-7,8,Trondheims-Ørn,22,8,6,8,36,36,0,30,240,Rakel Engesvik - 8,Kristine Nøstmo,
-8,9,Sandviken,22,4,6,12,23,34,-11,18,236,Sofie Jensen - 6,Nora Neset Gjøen,
-9,10,Kolbotn,22,4,3,15,17,43,-26,15,193,Juliette Kemppi - 5,Aurora Mikalsen,
-10,11,Grand Bodø,22,2,2,18,30,80,-50,8,222,Anne-Marthe Birkeland - 11,Siiri Välimaa,→ Norwegian 1/2 Relegation/Promotion Playoff (W)
-11,12,Medkila,22,1,2,19,9,69,-60,5,169,Anja Rasmussen - 3,Megan Kufeld,Relegated
+,Rk,Squad,W,D,L,GD,Pts,Top Team Scorer,Goalkeeper
+0,1,LSK Kvinner,19,2,1,50,59,Guro Reiten - 18,Cecilie Fiskerstrand
+1,2,Avaldsnes,15,3,4,34,48,"Cecilie Pedersen, Elise Thorsnes - 11",Katie Fraine
+2,3,Stabæk,13,4,5,23,43,Melissa Bjånesøy - 11,Ingrid Hjelmseth
+3,4,Klepp,12,4,6,10,40,Tameka Butt - 14,Oda Bogstad
+4,5,Røa,11,4,7,14,37,Lisa-Marie Karlseng Utland - 17,Kirvil Schau Odden
+5,6,Arna-Bjørnar,9,8,5,11,35,Josée Nahi - 7,Alyssa Giannetti
+6,7,Vålerenga,10,4,8,5,34,"Elise Krieghoff, Maren Hauge - 7",Michelle Betos
+7,8,Trondheims-Ørn,8,6,8,0,30,Rakel Engesvik - 8,Kristine Nøstmo
+8,9,Sandviken,4,6,12,-11,18,Sofie Jensen - 6,Nora Neset Gjøen
+9,10,Kolbotn,4,3,15,-26,15,Juliette Kemppi - 5,Aurora Mikalsen
+10,11,Grand Bodø,2,2,18,-50,8,Anne-Marthe Birkeland - 11,Siiri Välimaa
+11,12,Medkila,1,2,19,-60,5,Anja Rasmussen - 3,Megan Kufeld
